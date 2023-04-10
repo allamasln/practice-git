@@ -1,4 +1,4 @@
-# [changelog](https://github.com/allamasln/practice-git/blob/develop/CHANGELOG.md) Proyectazo
+# [changelog](https://github.com/allamasln/practice-git/blob/develop/CHANGELOG.md) Projectazo
 
 ## About project
 
