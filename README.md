@@ -1,4 +1,4 @@
-# Proyectazo
+# Projectazo
 
 ## About project
 
